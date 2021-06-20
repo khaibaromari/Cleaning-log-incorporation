@@ -1,0 +1,2 @@
+# Cleaning-log-incorporation
+ Applies logged issues to raw data and generates cleaned data, a cleaning log (the version that was applied to the data), subsets logs that their question name and uuid is not available in the raw dataset, subsets duplicate logs (logs that are in pairs or more than once) in the cleaning log file, and relogs the changes in the cleaned dataset and compares it to the cleaning log.
